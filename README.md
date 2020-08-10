@@ -8,4 +8,10 @@ Steps To run this tool:
   4. python3 -m pip install -r requirements.txt
   5. python2 gmailbrute.py
   
-  TOOL IS CREATED BY KRISNA PRANAV
+  NOTE: You Need Python2 To Run This Program Do not run this program using python3
+  
+  Tested on:
+  LINUX
+  MAC
+  ANDROID
+  
